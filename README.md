@@ -1,3 +1,3 @@
 # Time-Series-Models
 AR, MA, ARMA, ARIMA, SARIMA, SARIMAX, VAR, ARCH, GARCH<br>
-Hypothesis Test - Z-statistic (coef), ADF - Augmented Dickey - Fuller (stationarity)
+Z-statistic Hypothesis Test (coef), ADF - Augmented Dickey - Fuller Hypothesis Test (stationarity), Breusch-Pagan Hypothesis Test (heteroscedasticity)

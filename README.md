@@ -11,9 +11,10 @@ This repository contains a collection of time series analysis and forecasting pr
 ## Techniques & Statistical Tests
 - **Stationarity Testing** – Augmented Dickey-Fuller (ADF) test for detecting unit roots and verifying stationarity.  
 - **Heteroscedasticity Testing** – Breusch-Pagan and White tests to detect changing variance in residuals.  
-- **Normality & Autocorrelation Checks** – Shapiro-Wilk, Jarque-Bera, ACF/PACF plots, and Ljung-Box test to validate residual behavior.  
+- **Normality & Autocorrelation Checks** – Shapiro-Wilk, Jarque-Bera, and Ljung-Box test to validate residual behavior.  
+- **Autocorrelation Analysis** – ACF (Autocorrelation Function) and PACF (Partial Autocorrelation Function) plots for model identification and residual diagnostics.  
 - **Parameter Significance** – Z-statistics and p-values for evaluating model coefficients.  
-- **Model Selection & Diagnostics** – comparing models using AIC, BIC, and residual diagnostics to ensure robustness.  
+- **Model Selection & Diagnostics** – comparing models using AIC, BIC, and residual analysis to ensure robustness.  
 - **Rolling Forecast & Backtesting** – evaluating forecast stability over time with out-of-sample predictions.  
 - **Forecast Evaluation Metrics** – RMSE, MAE, MAPE, and Theil’s U-statistic to assess accuracy.  
 - **Data Preprocessing** – differencing, scaling, and seasonal decomposition to prepare data for modeling.
